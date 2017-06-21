@@ -1,0 +1,2 @@
+model action group 功能
+i18n for next (https://github.com/zeit/next.js/tree/v3-beta/examples/with-i18next)
